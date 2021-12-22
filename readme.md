@@ -3,6 +3,7 @@
 ```shell
 cd <path>
 git init
+.
 ```
 
 `git init`: 현재 터미널이 있는 위치를 루트로 하는 깃 레포지토리 생성.
