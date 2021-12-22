@@ -1,4 +1,4 @@
-# Git Repository 생성
+# Git Repository 생성 
 
 ```shell
 cd <path>
@@ -64,6 +64,7 @@ git commit
 ```shell
 git config --global user.email "you@example.com" #  필수 GitHub에서 사용하는 이메일로 할 것
 git config --global user.name "Your Name" 
+.
 ```
 
 커밋 제목은 "Create readme.md"로 할 것.
