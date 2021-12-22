@@ -16,6 +16,9 @@ git init
 
 ```shell
 git status
+.
+.
+.
 ```
 
 ```
